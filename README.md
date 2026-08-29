@@ -7,6 +7,7 @@
 <p align="center">
   <strong>English</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="./README.zh-CN.md">中文</a>
   <br><br>
+  <a href="https://studyer-tang.github.io">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#research-focus">Research</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#selected-work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#research-practice">Practice</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -76,6 +77,7 @@ My current toolkit includes **Python, R, LaTeX, Git, Jupyter, Zotero**, and the 
 I welcome thoughtful conversations about quantitative finance, reproducible research, statistical learning, and research tools.
 
 **Email:** [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)<br>
+**Website:** [studyer-tang.github.io](https://studyer-tang.github.io)<br>
 **GitHub:** [@Studyer-Tang](https://github.com/Studyer-Tang)
 
 ---

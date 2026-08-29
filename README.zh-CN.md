@@ -7,6 +7,7 @@
 <p align="center">
   <a href="./README.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;<strong>中文</strong>
   <br><br>
+  <a href="https://studyer-tang.github.io">个人主页</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#研究方向">研究方向</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#代表项目">代表项目</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#研究实践">研究实践</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -76,6 +77,7 @@
 欢迎就量化金融、可复现研究、统计学习和科研工具进行认真交流。
 
 **邮箱：** [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)<br>
+**个人主页：** [studyer-tang.github.io](https://studyer-tang.github.io)<br>
 **GitHub：** [@Studyer-Tang](https://github.com/Studyer-Tang)
 
 ---
