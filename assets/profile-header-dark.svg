@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Qingjun — Research Profile</title>
+  <desc id="desc">A restrained academic profile header with a coordinate study and typographic title.</desc>
+  <rect width="1200" height="360" rx="18" fill="#111820"/>
+  <g fill="none" stroke="#303b46" stroke-width="1">
+    <path d="M70 68H1130M70 292H1130"/>
+    <path d="M850 68V292M920 68V292M990 68V292M1060 68V292" opacity=".75"/>
+    <path d="M850 124H1130M850 180H1130M850 236H1130" opacity=".75"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M850 252C888 238 905 200 938 202C974 204 982 139 1018 151C1044 160 1064 112 1124 93" stroke="#c6d0da" stroke-width="2.2"/>
+    <path d="M850 265C899 258 922 246 956 223C995 196 1011 208 1041 181C1064 160 1087 166 1124 142" stroke="#d27764" stroke-width="2.2"/>
+    <circle cx="938" cy="202" r="4" fill="#111820" stroke="#c6d0da" stroke-width="2"/>
+    <circle cx="1041" cy="181" r="4" fill="#111820" stroke="#d27764" stroke-width="2"/>
+  </g>
+  <text x="70" y="126" fill="#d27764" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">RESEARCH PROFILE · 2026</text>
+  <text x="70" y="205" fill="#edf1f4" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="1">Qingjun</text>
+  <text x="74" y="252" fill="#a8b1ba" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.2">FINANCE · STATISTICAL LEARNING · REPRODUCIBLE COMPUTATION</text>
+  <text x="1100" y="322" text-anchor="end" fill="#7f8a94" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic">evidence before assertion</text>
+</svg>

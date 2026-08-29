@@ -1,226 +1,83 @@
-# Hi, I'm Qingjun 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img alt="Qingjun — research profile" src="./assets/profile-header-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=760&lines=Research+Student;Financial+Machine+Learning;Quantitative+Finance;Learning+Research+One+Step+at+a+Time" />
+  <strong>English</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="./README.zh-CN.md">中文</a>
+  <br><br>
+  <a href="#research-focus">Research</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#selected-work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#research-practice">Practice</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
-<p align="center">
-  <a href="mailto:2300010828@stu.pku.edu.cn">
-    <img src="https://img.shields.io/badge/Email-2300010828%40stu.pku.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Studyer-Tang">
-    <img src="https://img.shields.io/badge/GitHub-Studyer--Tang-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Financial%20Research-2F80ED?style=flat-square" />
-</p>
+## About
 
-## About Me
+I am **Qingjun**, a student at Peking University preparing for doctoral-level research. My interests sit at the intersection of **finance, statistical learning, and reproducible computation**.
 
-I am Qingjun, a student preparing for doctoral-level research.
+I am especially interested in questions where empirical design matters as much as model performance: how evidence is constructed, how assumptions shape conclusions, and how computational results can be made auditable.
 
-My current interests lie at the intersection of finance, statistics, and machine learning. I am building my research skills through systematic coursework, paper reading, code reproduction, and reproducible experimentation.
+> My working principle: make the claim precise, make the evidence traceable, and make the result possible to challenge.
 
-- 🎓 Peking University student
-- 🔬 Prospective doctoral researcher
-- 📊 Interested in financial machine learning and quantitative finance
-- 📚 Learning through papers, experiments, and careful verification
-- 🌱 Building a long-term foundation for academic research
+## Research focus
 
-## Research Interests
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Financial systems</h3>
+      <p>Financial machine learning, market microstructure, asset pricing signals, portfolio construction, and financial time series.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Reliable inference</h3>
+      <p>Econometrics, statistical learning, interpretable models, robustness analysis, and uncertainty-aware evaluation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Research engineering</h3>
+      <p>Reproducible experiments, provenance tracking, computational verification, and evidence-oriented workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Questions I care about</h3>
+      <p>Data leakage, temporal validation, transaction costs, multiple testing, and the gap between statistical and economic significance.</p>
+    </td>
+  </tr>
+</table>
 
-- Financial Machine Learning
-- Quantitative Finance
-- Market Microstructure
-- Financial Time Series
-- Portfolio Optimization
-- ESG and Impact Investing
-- Statistical Learning
-- Interpretable Machine Learning
-- Reproducible Research
+## Selected work
 
-## Current Learning
+### [Rigorous Research](https://github.com/Studyer-Tang/rigorous-research)
 
-- Probability and Mathematical Statistics
-- Linear Algebra
-- Econometrics
-- Financial Time Series
-- Machine Learning
-- Optimization
-- Academic Writing
-- Research Methodology
-- Reproducible Computational Experiments
+An evidence-gated research skill for literature review, mathematical auditing, reproducible computation, and independent verification. It turns an open-ended investigation into a staged workflow with explicit claims, acceptance gates, and review checkpoints.
 
-## Research Workflow
+`Python` · `Research methodology` · `Proof auditing` · `Reproducibility`
+
+## Research practice
 
 ```text
-Zotero
-  ↓
-Literature Notes
-  ↓
-Research Question
-  ↓
-Python Reproduction
-  ↓
-Experiment Tracking
-  ↓
-Statistical Analysis
-  ↓
-Research Report
-  ↓
-GitHub
+Literature → Question → Formalization → Computation → Stress test → Communication
 ```
 
-I believe good research should be understandable, reproducible, and open to verification.
+For substantial experiments, I aim to preserve the data source and version, preprocessing decisions, model configuration, random seeds, evaluation protocol, uncertainty, environment, and known failure cases.
 
-## Selected Projects
+My current toolkit includes **Python, R, LaTeX, Git, Jupyter, Zotero**, and the scientific Python ecosystem. Tools are secondary to the standard I want the work to meet: clear assumptions, honest limitations, and results that survive inspection.
 
-### 📈 Financial Paper Reproduction
+## Current direction
 
-Reproducing empirical results from papers in financial machine learning, quantitative finance, and market microstructure.
-
-Planned components:
-
-- Data documentation
-- Baseline models
-- Reproducible experiments
-- Robustness checks
-- Result visualization
-- Reproduction reports
-
-### 📊 Quantitative Finance Playground
-
-A collection of small experiments for learning quantitative finance.
-
-Topics include:
-
-- Portfolio optimization
-- Risk measurement
-- Factor models
-- Volatility modeling
-- Liquidity estimation
-- Time-series forecasting
-
-### 📚 Research Notes
-
-Structured notes on papers, methods, and research ideas.
-
-Each note aims to record:
-
-- Research question
-- Literature gap
-- Data source
-- Methodology
-- Main findings
-- Limitations
-- Possible extensions
-
-### 🧠 Machine Learning for Financial Data
-
-Experiments with statistical learning and interpretable machine learning models for financial datasets.
-
-Potential methods include:
-
-- Linear models
-- Regularization
-- Random forests
-- Gradient boosting
-- Explainable machine learning
-- Rolling-window validation
-
-## Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,latex" />
-</p>
-
-### Languages and Tools
-
-- Python
-- R
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- LaTeX
-
-### Python Ecosystem
-
-- NumPy
-- pandas
-- SciPy
-- statsmodels
-- scikit-learn
-- matplotlib
-- seaborn
-- PyTorch
-
-### Research Tools
-
-- Zotero
-- GitHub
-- Jupyter
-- Overleaf
-- Markdown
-- LaTeX
-
-## Reproducibility Principles
-
-For every substantial experiment, I aim to record:
-
-- Data source and version
-- Data processing steps
-- Model configuration
-- Random seed
-- Evaluation metrics
-- Baseline methods
-- Statistical uncertainty
-- Execution environment
-- Limitations and failure cases
-
-I am especially careful about:
-
-- Look-ahead bias
-- Data leakage
-- Survivorship bias
-- Time-series data splitting
-- Transaction costs
-- Multiple testing
-- Statistical versus economic significance
-
-## Academic Goals
-
-- Build a solid foundation in probability, statistics, econometrics, and finance
-- Develop reliable Python and data-analysis skills
-- Learn to read and reproduce academic papers
-- Conduct transparent and reproducible experiments
-- Develop independent research questions
-- Contribute meaningful work to quantitative and financial research
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Studyer-Tang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Studyer-Tang&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Studyer-Tang&theme=tokyonight&hide_border=true" />
-</p>
-
-## My Principles
-
-> Learn deeply. Build carefully. Verify everything.
-
-> A failed experiment is still useful when it is documented honestly.
-
-> Reproducibility is part of the research result.
+- Strengthening foundations in probability, statistics, econometrics, optimization, and finance
+- Reproducing empirical papers before extending their claims
+- Developing research questions in quantitative finance and financial machine learning
+- Exploring careful human–AI collaboration for literature discovery, verification, and research tooling
 
 ## Contact
 
-If you are interested in research, quantitative finance, machine learning, or reproducible experiments, feel free to contact me:
+I welcome thoughtful conversations about quantitative finance, reproducible research, statistical learning, and research tools.
 
-📧 [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)
+**Email:** [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)<br>
+**GitHub:** [@Studyer-Tang](https://github.com/Studyer-Tang)
 
 ---
 
-⭐ Thanks for visiting my profile.
+<p align="center"><sub>Learn deeply · Build carefully · Verify everything</sub></p>
