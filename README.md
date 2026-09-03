@@ -76,7 +76,7 @@ My current toolkit includes **Python, R, LaTeX, Git, Jupyter, Zotero**, and the 
 
 I welcome thoughtful conversations about quantitative finance, reproducible research, statistical learning, and research tools.
 
-**Email:** [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)<br>
+**Email:** [phdstudytang@gmail.com](mailto:phdstudytang@gmail.com)<br>
 **Website:** [studyer-tang.github.io](https://studyer-tang.github.io)<br>
 **GitHub:** [@Studyer-Tang](https://github.com/Studyer-Tang)
 
