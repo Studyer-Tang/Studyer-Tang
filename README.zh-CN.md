@@ -76,7 +76,7 @@
 
 欢迎就量化金融、可复现研究、统计学习和科研工具进行认真交流。
 
-**邮箱：** [2300010828@stu.pku.edu.cn](mailto:2300010828@stu.pku.edu.cn)<br>
+**邮箱：** [phdstudytang@gmail.com](mailto:phdstudytang@gmail.com)<br>
 **个人主页：** [studyer-tang.github.io](https://studyer-tang.github.io)<br>
 **GitHub：** [@Studyer-Tang](https://github.com/Studyer-Tang)
 
