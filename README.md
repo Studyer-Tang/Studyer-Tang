@@ -6,6 +6,8 @@ Statistics (Finance), Peking University
 
 I study statistics and its applications to financial markets. My current interests include financial time series, market microstructure, and investment decisions. In empirical work, I pay particular attention to out-of-sample evaluation, data leakage, transaction costs, and reproducibility.
 
+Outside my formal studies, I am an amateur enthusiast of pure mathematics, with interests in history and deductive reasoning.
+
 ## Research interests
 
 - **Statistical learning in finance:** high-dimensional time series, factor models, and inference under non-stationarity.
