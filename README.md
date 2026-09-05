@@ -6,7 +6,7 @@ Statistics (Finance), Peking University
 
 I study statistics and its applications to financial markets. My current interests include financial time series, market microstructure, and investment decisions. In empirical work, I pay particular attention to out-of-sample evaluation, data leakage, transaction costs, and reproducibility.
 
-I also enjoy pure mathematics, particularly analysis, as well as history and deductive reasoning.
+I also enjoy pure mathematics, particularly analysis, as well as history and deductive reasoning. I am especially fond of works by Bertrand Russell and Leonhard Euler.
 
 ## Research interests
 
@@ -30,12 +30,13 @@ Selected reading in analysis, statistics and history, not a record of completed 
 - Gareth James et al., [*An Introduction to Statistical Learning*](https://www.statlearning.com/) — applied statistical learning; free R and Python editions on the authors’ website.
 - Marc Bloch, [*The Historian’s Craft*](https://manchesteruniversitypress.co.uk/9780719032929/) — historical inquiry and source criticism, published by Manchester University Press.
 
-For games and deduction: [chess (FIDE rules)](https://handbook.fide.com/chapter/E012023) and [*Return of the Obra Dinn*](https://obradinn.com/). These are recommendations for their reasoning mechanics, not academic endorsements or historical references.
+For games and deduction: [*Return of the Obra Dinn*](https://obradinn.com/), recommended for its reasoning mechanics, not as an academic or historical reference.
 
 ### Further reading
 
 - **Texts:** Stephen Abbott, *Understanding Analysis*; Sheldon Axler, *Measure, Integration & Real Analysis*; Hastie, Tibshirani & Friedman, *The Elements of Statistical Learning*.
-- **Literature and history:** Jorge Luis Borges, *Ficciones* (fiction); Natalie Zemon Davis, *The Return of Martin Guerre* (microhistory).
-- **Mathematical fiction:** Edwin A. Abbott, *Flatland*; Apostolos Doxiadis, *Uncle Petros and Goldbach’s Conjecture*.
+- **Russell and Euler:** Russell, *Introduction to Mathematical Philosophy* and *The Problems of Philosophy*; Euler, *Introduction to Analysis of the Infinite* and *Elements of Algebra*. Historical works to read alongside modern mathematics, not replacements for current textbooks.
+- **Novels:** Jorge Luis Borges, *Ficciones*; Fyodor Dostoevsky, *Crime and Punishment*; Umberto Eco, *The Name of the Rose*.
+- **History:** Natalie Zemon Davis, *The Return of Martin Guerre* (microhistory).
 
 Prerequisites, descriptions and available source links are on my [academic homepage](https://studyer-tang.github.io/?lang=en#further-reading). These are recommendations, not a completed reading list.
