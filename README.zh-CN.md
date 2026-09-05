@@ -20,4 +20,14 @@
 
 用于文献调研、结论与来源核查、数学审阅和计算复现的开源项目。PaperTrail 提供论文证据整理与核查界面。
 
-更多介绍与当前研究兴趣见[个人学术主页](https://studyer-tang.github.io/?lang=zh)。
+## 阅读与游戏
+
+以下是入门选读建议，并非已读清单：
+
+- Richard Hammack，[《Book of Proof》](https://richardhammack.github.io/BookOfProof/)：逻辑与证明方法，作者官网提供免费版本。
+- George Pólya，[《怎样解题》](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)：数学解题方法，链接为普林斯顿大学出版社版本。
+- Marc Bloch，[《历史学家的技艺》](https://manchesteruniversitypress.co.uk/9780719032929/)：历史研究与史料批判，链接为曼彻斯特大学出版社英文版。
+
+游戏与推理推荐：[国际象棋（国际棋联规则）](https://handbook.fide.com/chapter/E012023)与[《奥伯拉丁的回归》](https://obradinn.com/)。推荐依据是推理机制，不代表学术权威背书，也不应将游戏当作史实资料。
+
+推荐理由与相关说明见[个人学术主页](https://studyer-tang.github.io/?lang=zh#reading)。

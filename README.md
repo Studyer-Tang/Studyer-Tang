@@ -20,4 +20,14 @@ Outside my formal studies, I am an amateur enthusiast of pure mathematics, with 
 
 Tools for literature investigation, claim–source checks, mathematical review, and computational reproduction. PaperTrail provides an interface for organizing and reviewing evidence from papers.
 
-More about my background and current interests on my [academic homepage](https://studyer-tang.github.io/?lang=en).
+## Reading & games
+
+Suggested starting points, not a record of completed reading:
+
+- Richard Hammack, [*Book of Proof*](https://richardhammack.github.io/BookOfProof/) — logic and proof techniques; a free edition from the author.
+- George Pólya, [*How to Solve It*](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it) — mathematical problem-solving, published by Princeton University Press.
+- Marc Bloch, [*The Historian’s Craft*](https://manchesteruniversitypress.co.uk/9780719032929/) — historical inquiry and source criticism, published by Manchester University Press.
+
+For games and deduction: [chess (FIDE rules)](https://handbook.fide.com/chapter/E012023) and [*Return of the Obra Dinn*](https://obradinn.com/). These are recommendations for their reasoning mechanics, not academic endorsements or historical references.
+
+More context and reading notes on my [academic homepage](https://studyer-tang.github.io/?lang=en#reading).
