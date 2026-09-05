@@ -32,4 +32,10 @@
 
 游戏与推理推荐：[国际象棋（国际棋联规则）](https://handbook.fide.com/chapter/E012023)与[《奥伯拉丁的回归》](https://obradinn.com/)。推荐依据是推理机制，不代表学术权威背书，也不应将游戏当作史实资料。
 
-推荐理由与相关说明见[个人学术主页](https://studyer-tang.github.io/?lang=zh#reading)。
+### 延伸阅读
+
+- **教材：** Stephen Abbott《理解分析》；Sheldon Axler《测度、积分与实分析》；Hastie、Tibshirani 与 Friedman《统计学习基础》。
+- **文学与历史：** 博尔赫斯《虚构集》（小说）；Natalie Zemon Davis《马丁·盖尔归来》（微观史）。
+- **数学小说：** Edwin A. Abbott《平面国》；Apostolos Doxiadis《佩特罗斯叔叔与哥德巴赫猜想》。
+
+阅读基础、推荐理由与可用来源链接见[个人学术主页](https://studyer-tang.github.io/?lang=zh#further-reading)。以上为推荐，并非已读清单；中文书名可能因译本而异。
