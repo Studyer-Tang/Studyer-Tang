@@ -32,4 +32,10 @@ Selected reading in analysis, statistics and history, not a record of completed 
 
 For games and deduction: [chess (FIDE rules)](https://handbook.fide.com/chapter/E012023) and [*Return of the Obra Dinn*](https://obradinn.com/). These are recommendations for their reasoning mechanics, not academic endorsements or historical references.
 
-More context and reading notes on my [academic homepage](https://studyer-tang.github.io/?lang=en#reading).
+### Further reading
+
+- **Texts:** Stephen Abbott, *Understanding Analysis*; Sheldon Axler, *Measure, Integration & Real Analysis*; Hastie, Tibshirani & Friedman, *The Elements of Statistical Learning*.
+- **Literature and history:** Jorge Luis Borges, *Ficciones* (fiction); Natalie Zemon Davis, *The Return of Martin Guerre* (microhistory).
+- **Mathematical fiction:** Edwin A. Abbott, *Flatland*; Apostolos Doxiadis, *Uncle Petros and Goldbach’s Conjecture*.
+
+Prerequisites, descriptions and available source links are on my [academic homepage](https://studyer-tang.github.io/?lang=en#further-reading). These are recommendations, not a completed reading list.
