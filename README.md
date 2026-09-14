@@ -1,4 +1,4 @@
-# Qingjun Tang
+# Qingjun
 
 Statistics (Finance), Peking University
 
