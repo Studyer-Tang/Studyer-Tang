@@ -14,11 +14,20 @@
 - **市场微观结构与金融行为：** 订单流、流动性，以及市场参与者的适应行为。
 - **可持续投资与风险管理：** ESG 信号、资产依赖与投资组合约束。
 
-## 科研工具
+## 学习笔记与科研工具
 
-[**Rigorous Research / PaperTrail**](https://github.com/Studyer-Tang/rigorous-research)
+- [**高等统计学笔记**](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes) — 依据 Fang Yao 老师课程讲义整理的个人中文学习笔记，包含术语翻译、直观解释、推导与例题。已整理经验分布、统计模型、指数族、充分性与完备性等前两章内容，附 PDF、LaTeX 源码和学习历程；并非课程官方讲义或译本。[第 1 章 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-01-cn.pdf) · [第 2 章 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-02-cn.pdf) · [学习进度](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/PROGRESS.md)。
+- [**ThesisCraft · 学研排版**](https://github.com/Studyer-Tang/ThesisCraft) — 本地 Word / WPS 论文排版工具，支持学校模板、中西文字体、标题编号、图表公式交叉引用与排版检查。
+- [**PaperStage**](https://github.com/Studyer-Tang/paperstage-skill) — 供 AI 助手使用的科研演示技能，围绕论文证据组织讲述，结合学术版式与本地可编辑 PPTX 工具制作演示。
+- [**Academic Clipboard**](https://github.com/Studyer-Tang/academic-clipboard) — 本地优先的科研剪贴板，保存文本与截图，整理来源、页码和批注，并转换 DOI、BibTeX、公式与表格片段。
 
-用于文献调研、结论与来源核查、数学审阅和计算复现的开源项目。PaperTrail 提供论文证据整理与核查界面。
+### 日常工具
+
+- [**AutoElectiveOrb**](https://github.com/Studyer-Tang/AutoElectiveOrb) — Windows 悬浮选课助手，提供课程余量监控、抽签结果查看与换课前检查；验证码识别使用第三方在线服务。
+- [**Codex Daily Token Widget**](https://github.com/Studyer-Tang/codex-daily-token-dashboard) — 从本机会话日志汇总每日、任务与轮次 Token 用量的 Windows 悬浮窗和网页看板；统计不等同于 API 账单或订阅额度。
+- [**DropOrb**](https://github.com/Studyer-Tang/DropOrb) — 在本机处理文件、剪贴板与快捷操作的 Windows 拖放悬浮球。
+
+项目列表核对于 **2026-09-29**。最新功能和使用限制以各仓库说明为准，也可[浏览全部仓库](https://github.com/Studyer-Tang?tab=repositories)。
 
 ## 阅读与游戏
 
@@ -39,4 +48,4 @@
 - **优秀小说：** 博尔赫斯《虚构集》；陀思妥耶夫斯基《罪与罚》；翁贝托·埃科《玫瑰的名字》。
 - **历史：** Natalie Zemon Davis《马丁·盖尔归来》（微观史）。
 
-阅读基础、推荐理由与可用来源链接见[个人学术主页](https://studyer-tang.github.io/?lang=zh#further-reading)。以上为推荐，并非已读清单；中文书名可能因译本而异。
+阅读基础、推荐理由与可用来源链接见[个人学术主页](https://studyer-tang.github.io/?lang=zh&page=reading)。以上为推荐，并非已读清单；中文书名可能因译本而异。

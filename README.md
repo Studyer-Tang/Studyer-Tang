@@ -14,11 +14,20 @@ I also enjoy pure mathematics, particularly analysis, as well as history and ded
 - **Market microstructure and financial behavior:** order flow, liquidity, and adaptation among market participants.
 - **Sustainable investing and risk:** ESG signals, asset dependence, and portfolio constraints.
 
-## Research software
+## Study notes & research tools
 
-[**Rigorous Research / PaperTrail**](https://github.com/Studyer-Tang/rigorous-research)
+- [**Advanced Mathematical Statistics Notes**](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes) — Personal Chinese notes based on Fang Yao’s course lectures, with explanations, derivations, and examples. The first two chapters cover empirical distributions, statistical models, exponential families, sufficiency, and completeness. Includes PDFs, LaTeX sources, and a learning log; not official course notes or translations. [Chapter 1 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-01-cn.pdf) · [Chapter 2 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-02-cn.pdf) · [Study progress](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/PROGRESS.md).
+- [**ThesisCraft**](https://github.com/Studyer-Tang/ThesisCraft) — Local Word / WPS thesis formatting with institutional templates, typography, heading numbering, cross-references, and layout checks.
+- [**PaperStage**](https://github.com/Studyer-Tang/paperstage-skill) — A research presentation skill for AI assistants, with evidence-led narratives, academic layouts, and local editable PPTX tools.
+- [**Academic Clipboard**](https://github.com/Studyer-Tang/academic-clipboard) — A local-first clipboard for text, screenshots, and research snippets, including source annotations and DOI, BibTeX, equation, and table conversions.
 
-Tools for literature investigation, claim–source checks, mathematical review, and computational reproduction. PaperTrail provides an interface for organizing and reviewing evidence from papers.
+### Everyday tools
+
+- [**AutoElectiveOrb**](https://github.com/Studyer-Tang/AutoElectiveOrb) — A Windows course assistant with availability monitoring, lottery-result viewing, and pre-swap checks. CAPTCHA recognition uses a third-party online service.
+- [**Codex Daily Token Widget**](https://github.com/Studyer-Tang/codex-daily-token-dashboard) — A Windows widget and web dashboard for daily, task, and turn-level token usage from local session logs; these counts are not API billing or subscription quota figures.
+- [**DropOrb**](https://github.com/Studyer-Tang/DropOrb) — A Windows drop orb for files, clipboard content, and quick actions, with local processing.
+
+Project list reviewed on **2026-09-29**. See each repository for current capabilities and limitations, or [browse all repositories](https://github.com/Studyer-Tang?tab=repositories).
 
 ## Reading & games
 
@@ -39,4 +48,4 @@ For games and deduction: [*Return of the Obra Dinn*](https://obradinn.com/), rec
 - **Novels:** Jorge Luis Borges, *Ficciones*; Fyodor Dostoevsky, *Crime and Punishment*; Umberto Eco, *The Name of the Rose*.
 - **History:** Natalie Zemon Davis, *The Return of Martin Guerre* (microhistory).
 
-Prerequisites, descriptions and available source links are on my [academic homepage](https://studyer-tang.github.io/?lang=en#further-reading). These are recommendations, not a completed reading list.
+Prerequisites, descriptions and available source links are on my [academic homepage](https://studyer-tang.github.io/?lang=en&page=reading). These are recommendations, not a completed reading list.
