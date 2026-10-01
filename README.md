@@ -14,20 +14,25 @@ I also enjoy pure mathematics, particularly analysis, as well as history and ded
 - **Market microstructure and financial behavior:** order flow, liquidity, and adaptation among market participants.
 - **Sustainable investing and risk:** ESG signals, asset dependence, and portfolio constraints.
 
-## Study notes & research tools
+## Research tools & study notes
 
-- [**Advanced Mathematical Statistics Notes**](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes) — Personal Chinese notes based on Fang Yao’s course lectures, with explanations, derivations, and examples. The first two chapters cover empirical distributions, statistical models, exponential families, sufficiency, and completeness. Includes PDFs, LaTeX sources, and a learning log; not official course notes or translations. [Chapter 1 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-01-cn.pdf) · [Chapter 2 PDF](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/output/pdf/chapter-02-cn.pdf) · [Study progress](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes/blob/main/PROGRESS.md).
-- [**ThesisCraft**](https://github.com/Studyer-Tang/ThesisCraft) — Local Word / WPS thesis formatting with institutional templates, typography, heading numbering, cross-references, and layout checks.
-- [**PaperStage**](https://github.com/Studyer-Tang/paperstage-skill) — A research presentation skill for AI assistants, with evidence-led narratives, academic layouts, and local editable PPTX tools.
-- [**Academic Clipboard**](https://github.com/Studyer-Tang/academic-clipboard) — A local-first clipboard for text, screenshots, and research snippets, including source annotations and DOI, BibTeX, equation, and table conversions.
+<!-- projects:start -->
 
-### Everyday tools
+| Project | About | Latest release |
+| :--- | :--- | :--- |
+| **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | Local-first research clipboard for macOS &amp; Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
+| **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | ThesisCraft 学研排版 \| Local thesis formatting for Word &amp; WPS · 本硕博论文模板、字体编号、交叉引用与排版检查 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
+| **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学中文学习笔记：翻译、推导、例题与学习进度 | Source only |
+| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools | Source only |
 
-- [**AutoElectiveOrb**](https://github.com/Studyer-Tang/AutoElectiveOrb) — A Windows course assistant with availability monitoring, lottery-result viewing, and pre-swap checks. CAPTCHA recognition uses a third-party online service.
-- [**Codex Daily Token Widget**](https://github.com/Studyer-Tang/codex-daily-token-dashboard) — A Windows widget and web dashboard for daily, task, and turn-level token usage from local session logs; these counts are not API billing or subscription quota figures.
-- [**DropOrb**](https://github.com/Studyer-Tang/DropOrb) — A Windows drop orb for files, clipboard content, and quick actions, with local processing.
+Project data updated 2026-10-01 · Public repositories, descriptions and releases checked every 6 hours.
 
-Project list reviewed on **2026-09-29**. See each repository for current capabilities and limitations, or [browse all repositories](https://github.com/Studyer-Tang?tab=repositories).
+[全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
+
+<!-- projects:end -->
+
+<details>
+<summary>Reading, games & further interests</summary>
 
 ## Reading & games
 
@@ -49,3 +54,5 @@ For games and deduction: [*Return of the Obra Dinn*](https://obradinn.com/), rec
 - **History:** Natalie Zemon Davis, *The Return of Martin Guerre* (microhistory).
 
 Prerequisites, descriptions and available source links are on my [academic homepage](https://studyer-tang.github.io/?lang=en&page=reading). These are recommendations, not a completed reading list.
+
+</details>
