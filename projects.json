@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-01T10:42:42+00:00",
+  "projects": [
+    {
+      "repo": "academic-clipboard",
+      "name": [
+        "Academic Clipboard",
+        "Academic Clipboard"
+      ],
+      "label": [
+        "科研摘录",
+        "Research snippets"
+      ],
+      "description": "Local-first research clipboard for macOS & Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables",
+      "url": "https://github.com/Studyer-Tang/academic-clipboard",
+      "language": "Python",
+      "pushedAt": "2026-10-01T10:30:25Z",
+      "release": {
+        "tag": "v0.5.0-beta.1",
+        "url": "https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1",
+        "prerelease": true,
+        "publishedAt": "2026-10-01T09:59:41Z"
+      }
+    },
+    {
+      "repo": "ThesisCraft",
+      "name": [
+        "ThesisCraft · 学研排版",
+        "ThesisCraft"
+      ],
+      "label": [
+        "论文写作",
+        "Academic writing"
+      ],
+      "description": "ThesisCraft 学研排版 | Local thesis formatting for Word & WPS · 本硕博论文模板、字体编号、交叉引用与排版检查",
+      "url": "https://github.com/Studyer-Tang/ThesisCraft",
+      "language": "Python",
+      "pushedAt": "2026-09-30T12:49:21Z",
+      "release": {
+        "tag": "v4.2.1-beta.1",
+        "url": "https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1",
+        "prerelease": true,
+        "publishedAt": "2026-09-30T12:51:51Z"
+      }
+    },
+    {
+      "repo": "advanced-mathematical-statistics-notes",
+      "name": [
+        "高等统计学笔记",
+        "Statistics Notes"
+      ],
+      "label": [
+        "学习笔记",
+        "Study notes"
+      ],
+      "description": "高等统计学中文学习笔记：翻译、推导、例题与学习进度",
+      "url": "https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes",
+      "language": "TeX",
+      "pushedAt": "2026-09-29T07:18:46Z",
+      "release": null
+    },
+    {
+      "repo": "paperstage-skill",
+      "name": [
+        "PaperStage",
+        "PaperStage"
+      ],
+      "label": [
+        "学术演示",
+        "Presentations"
+      ],
+      "description": "Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools",
+      "url": "https://github.com/Studyer-Tang/paperstage-skill",
+      "language": "JavaScript",
+      "pushedAt": "2026-09-07T14:25:59Z",
+      "release": null
+    }
+  ]
+}
