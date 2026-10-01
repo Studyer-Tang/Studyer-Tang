@@ -23,7 +23,8 @@ I also enjoy pure mathematics, particularly analysis, as well as history and ded
 | **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | Local-first research clipboard for macOS &amp; Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
 | **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | ThesisCraft 学研排版 \| Local thesis formatting for Word &amp; WPS · 本硕博论文模板、字体编号、交叉引用与排版检查 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
 | **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学中文学习笔记：翻译、推导、例题与学习进度 | Source only |
-| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools | Source only |
+| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Stable |
+| **[learning-theory-to-optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments. | Source only |
 
 Project data updated 2026-10-01 · Public repositories, descriptions and releases checked every 6 hours.
 

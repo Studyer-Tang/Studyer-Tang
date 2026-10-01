@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T10:42:42+00:00",
+  "updatedAt": "2026-10-01T18:26:28+00:00",
   "projects": [
     {
       "repo": "academic-clipboard",
@@ -73,7 +73,28 @@
       "description": "Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools",
       "url": "https://github.com/Studyer-Tang/paperstage-skill",
       "language": "JavaScript",
-      "pushedAt": "2026-09-07T14:25:59Z",
+      "pushedAt": "2026-10-01T14:23:17Z",
+      "release": {
+        "tag": "v0.4.0",
+        "url": "https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0",
+        "prerelease": false,
+        "publishedAt": "2026-10-01T14:23:18Z"
+      }
+    },
+    {
+      "repo": "learning-theory-to-optimization",
+      "name": [
+        "learning-theory-to-optimization",
+        "learning-theory-to-optimization"
+      ],
+      "label": [
+        "开源项目",
+        "Open source"
+      ],
+      "description": "A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments.",
+      "url": "https://github.com/Studyer-Tang/learning-theory-to-optimization",
+      "language": "Python",
+      "pushedAt": "2026-10-01T13:28:14Z",
       "release": null
     }
   ]
