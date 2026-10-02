@@ -3,16 +3,20 @@
 The two profile READMEs and the personal website share `scripts/sync_projects.py`.
 It reads public GitHub repositories and their releases using the REST API, with
 no third-party service or Python dependency. Repository **About / Description**
-is the canonical summary; edit it on the project to update the profile and site.
+is retained as GitHub metadata. Human-edited bilingual summaries are in `SUMMARIES`;
+update them there when the scope of a featured project changes.
 
 - Every six hours, `.github/workflows/projects.yml` checks public owned repositories.
 - Added projects appear automatically. Deleted, private, archived and forked projects
   are excluded. The profile and website repositories are also excluded.
 - Latest means the most recently **published** release, including clearly labelled
   previews. It does not imply a stable release or guarantee downloadable binaries.
-- Four featured projects have curated display names and ordering in `FEATURED`.
-  All other eligible projects follow alphabetically. Descriptions retain the language
-  used in the repository About field; they are not machine-translated.
+- Five featured projects have curated display names and ordering in `FEATURED`.
+  Their summaries are maintained in Chinese and English in `SUMMARIES`.
+  All other eligible projects follow alphabetically and use their About field until
+  a summary is added. Release state is “Published” or “Preview”, not a stability claim.
+- The displayed date is the last catalog change, converted to Asia/Shanghai;
+  a scheduled check with no changed data does not advance that date.
 - Only the text between `projects:start` and `projects:end` is replaced. Biography,
   education, reading lists, and other personal content remain manually maintained.
 - An API failure stops the update before writing. Unchanged data makes no commit.

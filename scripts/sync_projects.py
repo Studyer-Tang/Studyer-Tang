@@ -5,7 +5,7 @@ Python standard library only. A failed request aborts before any file is changed
 from __future__ import annotations
 
 import argparse
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import html
 import json
 import os
@@ -18,11 +18,36 @@ ROOT = Path(__file__).resolve().parents[1]
 START = '<!-- projects:start -->'
 END = '<!-- projects:end -->'
 FEATURED = {
-    'academic-clipboard': ('Academic Clipboard', 'Academic Clipboard', '科研摘录', 'Research snippets'),
-    'ThesisCraft': ('ThesisCraft · 学研排版', 'ThesisCraft', '论文写作', 'Academic writing'),
     'advanced-mathematical-statistics-notes': ('高等统计学笔记', 'Statistics Notes', '学习笔记', 'Study notes'),
+    'learning-theory-to-optimization': ('学习理论与优化', 'Learning Theory & Optimization', '数学推导与实验', 'Derivations & experiments'),
+    'ThesisCraft': ('ThesisCraft · 学研排版', 'ThesisCraft', '论文写作', 'Academic writing'),
+    'academic-clipboard': ('Academic Clipboard', 'Academic Clipboard', '科研摘录', 'Research snippets'),
     'paperstage-skill': ('PaperStage', 'PaperStage', '学术演示', 'Presentations'),
 }
+# Human-edited summaries describe existing scope; GitHub facts remain automatic.
+SUMMARIES = {
+    'advanced-mathematical-statistics-notes': (
+        '高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。',
+        'Course notes in mathematical statistics, with expanded proofs, examples and a learning log.'),
+    'learning-theory-to-optimization': (
+        '学习理论与优化的学习材料，包含数学推导、练习与可复现的 NumPy 实验。',
+        'Study materials in learning theory and optimization, with derivations, exercises and reproducible NumPy experiments.'),
+    'ThesisCraft': (
+        '本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。',
+        'Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks.'),
+    'academic-clipboard': (
+        '本地研究摘录工具，保存来源信息，整理 PDF 文本、BibTeX 与表格。',
+        'A local research clipboard for source-aware excerpts, PDF text, BibTeX and tables.'),
+    'paperstage-skill': (
+        '学术演示技能与 PPTX 工具，支持中文排版、可编辑数学公式与表格。',
+        'A presentation skill and PPTX tools for Chinese typography, editable equations and tables.'),
+}
+
+
+def presentation(name: str, description: str):
+    labels = FEATURED.get(name, (name, name, '开源项目', 'Open source'))
+    return {'name': list(labels[:2]), 'label': list(labels[2:]),
+            'summary': list(SUMMARIES.get(name, (description, description)))}
 
 
 def get_json(path: str):
@@ -53,12 +78,11 @@ def collect(fetch=get_json) -> list[dict]:
         if (repo.get('private') or repo['fork'] or repo['archived']
                 or name.lower() in {OWNER.lower(), f'{OWNER}.github.io'.lower()}):
             continue
-        labels = FEATURED.get(name, (name, name, '开源项目', 'Open source'))
         releases = [r for r in pages(f'repos/{OWNER}/{name}/releases', fetch)
                     if not r['draft'] and r.get('published_at')]
         latest = max(releases, key=lambda r: (r['published_at'], r['id']), default=None)
         projects.append({
-            'repo': name, 'name': list(labels[:2]), 'label': list(labels[2:]),
+            'repo': name, **presentation(name, repo.get('description') or ''),
             'description': repo.get('description') or '', 'url': repo['html_url'],
             'language': repo.get('language'), 'pushedAt': repo['pushed_at'],
             'release': ({'tag': latest['tag_name'], 'url': latest['html_url'],
@@ -81,15 +105,18 @@ def table(catalog: dict, zh: bool) -> str:
         release = p['release']
         version = ('暂无发布' if zh else 'Source only')
         if release:
-            status = ('预览版' if zh else 'Preview') if release['prerelease'] else ('正式版' if zh else 'Stable')
+            status = ('预览版' if zh else 'Preview') if release['prerelease'] else ('已发布' if zh else 'Published')
             version = f"[{markdown(release['tag'])}]({release['url']}) · {status}"
-        description = markdown(p['description']) or ('见仓库说明' if zh else 'See repository')
+        description = markdown(p.get('summary', [p['description'], p['description']])[0 if zh else 1]) or ('见仓库说明' if zh else 'See repository')
         lines.append(f"| **[{markdown(p['name'][0 if zh else 1])}]({p['url']})** | {description} | {version} |")
     if not catalog['projects']:
         lines.append('| — | 暂无公开项目 / No public projects | — |')
-    date = catalog['updatedAt'][:10]
-    lines.extend(['', (f'项目数据更新于 {date} · 每 6 小时自动核对公开仓库、简介与发布版本。'
-                       if zh else f'Project data updated {date} · Public repositories, descriptions and releases checked every 6 hours.'),
+    changed_at = datetime.fromisoformat(catalog['updatedAt'].replace('Z', '+00:00'))
+    if changed_at.tzinfo is None:
+        changed_at = changed_at.replace(tzinfo=timezone.utc)
+    date = changed_at.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d')
+    lines.extend(['', (f'项目资料变更于 {date}（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。'
+                       if zh else f'Catalog changed {date} (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.'),
                   '', '[全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)'])
     return '\n'.join(lines)
 
