@@ -1,32 +1,28 @@
-# Qingjun Tang
+# Qingjun
 
-北京大学 · 统计学（金融方向）
+北京大学 · 数学科学学院
 
 [个人主页](https://studyer-tang.github.io/?lang=zh) · [邮箱](mailto:phdstudytang@gmail.com) · [English](README.md)
 
-我学习统计学及其在金融市场中的应用，目前关注金融时间序列、市场微观结构与投资决策。在实证工作中，我尤其重视样本外检验、数据泄漏、交易成本与计算结果的可复现性。
+我目前在北京大学读本科，学习统计学及其在金融市场中的应用。这里保存课程笔记、数学推导，以及用于论文摘录、写作排版和学术演示的工具。
 
-我也喜欢纯数学，尤其是分析学，同时也是历史与推理爱好者，特别喜欢罗素与欧拉的著作。
+我的研究兴趣集中于高频股票数据、市场微观结构与统计预测。下列仓库主要是学习材料和程序作品；学习日志分别记录已整理的内容与自己完成的工作。
 
-## 研究兴趣
+我也喜欢分析学、历史与推理，尤其喜欢罗素与欧拉的著作。
 
-- **金融统计学习：** 高维时间序列、因子模型与非平稳环境下的统计推断。
-- **市场微观结构与金融行为：** 订单流、流动性，以及市场参与者的适应行为。
-- **可持续投资与风险管理：** ESG 信号、资产依赖与投资组合约束。
-
-## 开源工具与学习笔记
+## 学习笔记与研究工具
 
 <!-- projects:start -->
 
 | 项目 | 简介 | 最新发布 |
 | :--- | :--- | :--- |
-| **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | Local-first research clipboard for macOS &amp; Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · 预览版 |
-| **[ThesisCraft · 学研排版](https://github.com/Studyer-Tang/ThesisCraft)** | ThesisCraft 学研排版 \| Local thesis formatting for Word &amp; WPS · 本硕博论文模板、字体编号、交叉引用与排版检查 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · 预览版 |
-| **[高等统计学笔记](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学中文学习笔记：翻译、推导、例题与学习进度 | 暂无发布 |
-| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · 正式版 |
-| **[learning-theory-to-optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments. | 暂无发布 |
+| **[高等统计学笔记](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。 | 暂无发布 |
+| **[学习理论与优化](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | 学习理论与优化的学习材料，包含数学推导、练习与可复现的 NumPy 实验。 | 暂无发布 |
+| **[ThesisCraft · 学研排版](https://github.com/Studyer-Tang/ThesisCraft)** | 本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · 预览版 |
+| **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | 本地研究摘录工具，保存来源信息，整理 PDF 文本、BibTeX 与表格。 | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · 预览版 |
+| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | 学术演示技能与 PPTX 工具，支持中文排版、可编辑数学公式与表格。 | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · 已发布 |
 
-项目数据更新于 2026-10-01 · 每 6 小时自动核对公开仓库、简介与发布版本。
+项目资料变更于 2026-10-02（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 

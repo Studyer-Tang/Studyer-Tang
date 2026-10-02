@@ -1,27 +1,46 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T18:26:28+00:00",
+  "updatedAt": "2026-10-02T06:46:33+00:00",
   "projects": [
     {
-      "repo": "academic-clipboard",
+      "repo": "advanced-mathematical-statistics-notes",
       "name": [
-        "Academic Clipboard",
-        "Academic Clipboard"
+        "高等统计学笔记",
+        "Statistics Notes"
       ],
       "label": [
-        "科研摘录",
-        "Research snippets"
+        "学习笔记",
+        "Study notes"
       ],
-      "description": "Local-first research clipboard for macOS & Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables",
-      "url": "https://github.com/Studyer-Tang/academic-clipboard",
+      "summary": [
+        "高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。",
+        "Course notes in mathematical statistics, with expanded proofs, examples and a learning log."
+      ],
+      "description": "高等统计学中文学习笔记：翻译、推导、例题与学习进度",
+      "url": "https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes",
+      "language": "TeX",
+      "pushedAt": "2026-10-02T06:45:55Z",
+      "release": null
+    },
+    {
+      "repo": "learning-theory-to-optimization",
+      "name": [
+        "学习理论与优化",
+        "Learning Theory & Optimization"
+      ],
+      "label": [
+        "数学推导与实验",
+        "Derivations & experiments"
+      ],
+      "summary": [
+        "学习理论与优化的学习材料，包含数学推导、练习与可复现的 NumPy 实验。",
+        "Study materials in learning theory and optimization, with derivations, exercises and reproducible NumPy experiments."
+      ],
+      "description": "A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments.",
+      "url": "https://github.com/Studyer-Tang/learning-theory-to-optimization",
       "language": "Python",
-      "pushedAt": "2026-10-01T10:30:25Z",
-      "release": {
-        "tag": "v0.5.0-beta.1",
-        "url": "https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1",
-        "prerelease": true,
-        "publishedAt": "2026-10-01T09:59:41Z"
-      }
+      "pushedAt": "2026-10-02T06:46:16Z",
+      "release": null
     },
     {
       "repo": "ThesisCraft",
@@ -33,10 +52,14 @@
         "论文写作",
         "Academic writing"
       ],
+      "summary": [
+        "本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。",
+        "Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks."
+      ],
       "description": "ThesisCraft 学研排版 | Local thesis formatting for Word & WPS · 本硕博论文模板、字体编号、交叉引用与排版检查",
       "url": "https://github.com/Studyer-Tang/ThesisCraft",
       "language": "Python",
-      "pushedAt": "2026-09-30T12:49:21Z",
+      "pushedAt": "2026-10-02T06:45:31Z",
       "release": {
         "tag": "v4.2.1-beta.1",
         "url": "https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1",
@@ -45,20 +68,29 @@
       }
     },
     {
-      "repo": "advanced-mathematical-statistics-notes",
+      "repo": "academic-clipboard",
       "name": [
-        "高等统计学笔记",
-        "Statistics Notes"
+        "Academic Clipboard",
+        "Academic Clipboard"
       ],
       "label": [
-        "学习笔记",
-        "Study notes"
+        "科研摘录",
+        "Research snippets"
       ],
-      "description": "高等统计学中文学习笔记：翻译、推导、例题与学习进度",
-      "url": "https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes",
-      "language": "TeX",
-      "pushedAt": "2026-09-29T07:18:46Z",
-      "release": null
+      "summary": [
+        "本地研究摘录工具，保存来源信息，整理 PDF 文本、BibTeX 与表格。",
+        "A local research clipboard for source-aware excerpts, PDF text, BibTeX and tables."
+      ],
+      "description": "Local-first research clipboard for macOS & Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables",
+      "url": "https://github.com/Studyer-Tang/academic-clipboard",
+      "language": "Python",
+      "pushedAt": "2026-10-02T06:45:45Z",
+      "release": {
+        "tag": "v0.5.0-beta.1",
+        "url": "https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1",
+        "prerelease": true,
+        "publishedAt": "2026-10-01T09:59:41Z"
+      }
     },
     {
       "repo": "paperstage-skill",
@@ -70,32 +102,20 @@
         "学术演示",
         "Presentations"
       ],
+      "summary": [
+        "学术演示技能与 PPTX 工具，支持中文排版、可编辑数学公式与表格。",
+        "A presentation skill and PPTX tools for Chinese typography, editable equations and tables."
+      ],
       "description": "Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools",
       "url": "https://github.com/Studyer-Tang/paperstage-skill",
       "language": "JavaScript",
-      "pushedAt": "2026-10-01T14:23:17Z",
+      "pushedAt": "2026-10-02T06:46:26Z",
       "release": {
         "tag": "v0.4.0",
         "url": "https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0",
         "prerelease": false,
         "publishedAt": "2026-10-01T14:23:18Z"
       }
-    },
-    {
-      "repo": "learning-theory-to-optimization",
-      "name": [
-        "learning-theory-to-optimization",
-        "learning-theory-to-optimization"
-      ],
-      "label": [
-        "开源项目",
-        "Open source"
-      ],
-      "description": "A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments.",
-      "url": "https://github.com/Studyer-Tang/learning-theory-to-optimization",
-      "language": "Python",
-      "pushedAt": "2026-10-01T13:28:14Z",
-      "release": null
     }
   ]
 }

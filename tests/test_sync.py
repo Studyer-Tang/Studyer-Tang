@@ -54,6 +54,32 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(len(list(sync.pages('users/x/repos?type=owner', api))), 101)
         self.assertIn('&per_page=100&page=2', calls[-1])
 
+    def test_published_release_does_not_imply_stability(self):
+        def api(path):
+            if path.startswith('users/'):
+                return [repo('paperstage-skill')]
+            return [dict(id=1, tag_name='v0.4.0', html_url='https://github.com/release',
+                         draft=False, prerelease=False, published_at='2026-10-01')]
+        data = {'projects': sync.collect(api), 'updatedAt': '2026-10-01T18:26:34Z'}
+        en, zh = sync.table(data, False), sync.table(data, True)
+        self.assertIn('Published', en)
+        self.assertNotIn('Stable', en)
+        self.assertIn('已发布', zh)
+        self.assertNotIn('正式版', zh)
+        self.assertIn('2026-10-02', en)
+        self.assertIn('北京时间', zh)
+
+    def test_curated_summaries_and_new_project_fallback(self):
+        items = [repo('paperstage-skill'), repo('new-tool'),
+                 repo('learning-theory-to-optimization'), repo('advanced-mathematical-statistics-notes')]
+        projects = sync.collect(lambda path: items if path.startswith('users/') else [])
+        self.assertEqual([p['repo'] for p in projects], ['advanced-mathematical-statistics-notes',
+                         'learning-theory-to-optimization', 'paperstage-skill', 'new-tool'])
+        data = {'projects': projects, 'updatedAt': '2026-10-01'}
+        self.assertIn('可编辑数学公式', sync.table(data, True))
+        self.assertIn('editable equations', sync.table(data, False))
+        self.assertEqual(projects[-1]['summary'], ['Text | <tag>', 'Text | <tag>'])
+
     def test_no_churn_and_removed_projects_disappear(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / 'projects.json'

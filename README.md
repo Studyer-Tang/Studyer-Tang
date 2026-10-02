@@ -1,32 +1,28 @@
 # Qingjun
 
-Statistics (Finance), Peking University
+Peking University · School of Mathematical Sciences
 
 [Homepage](https://studyer-tang.github.io/?lang=en) · [Email](mailto:phdstudytang@gmail.com) · [中文](README.zh-CN.md)
 
-I study statistics and its applications to financial markets. My current interests include financial time series, market microstructure, and investment decisions. In empirical work, I pay particular attention to out-of-sample evaluation, data leakage, transaction costs, and reproducibility.
+I am an undergraduate studying statistics and its applications to financial markets. I keep course notes, work through mathematical derivations, and build tools for collecting research, formatting theses and preparing presentations.
 
-I also enjoy pure mathematics, particularly analysis, as well as history and deductive reasoning. I am especially fond of works by Bertrand Russell and Leonhard Euler.
+My research interests include high-frequency equity data, market microstructure and statistical prediction. The repositories below contain study materials and software; my learning logs distinguish prepared material from work I have independently completed.
 
-## Research interests
+I also enjoy analysis, history and deductive reasoning, especially the works of Russell and Euler.
 
-- **Statistical learning in finance:** high-dimensional time series, factor models, and inference under non-stationarity.
-- **Market microstructure and financial behavior:** order flow, liquidity, and adaptation among market participants.
-- **Sustainable investing and risk:** ESG signals, asset dependence, and portfolio constraints.
-
-## Research tools & study notes
+## Notes and research tools
 
 <!-- projects:start -->
 
 | Project | About | Latest release |
 | :--- | :--- | :--- |
-| **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | Local-first research clipboard for macOS &amp; Windows · PDF cleanup, source-aware quotes, BibTeX and Word/Excel tables | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
-| **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | ThesisCraft 学研排版 \| Local thesis formatting for Word &amp; WPS · 本硕博论文模板、字体编号、交叉引用与排版检查 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
-| **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学中文学习笔记：翻译、推导、例题与学习进度 | Source only |
-| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | Research presentation skill for AI assistants: evidence-led narratives, institutional design workflows, and local editable PPTX tools | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Stable |
-| **[learning-theory-to-optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | A self-study journey through learning theory and optimization: derivations, solved exercises, and reproducible NumPy experiments. | Source only |
+| **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | Course notes in mathematical statistics, with expanded proofs, examples and a learning log. | Source only |
+| **[Learning Theory &amp; Optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | Study materials in learning theory and optimization, with derivations, exercises and reproducible NumPy experiments. | Source only |
+| **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks. | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
+| **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | A local research clipboard for source-aware excerpts, PDF text, BibTeX and tables. | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
+| **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | A presentation skill and PPTX tools for Chinese typography, editable equations and tables. | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Published |
 
-Project data updated 2026-10-01 · Public repositories, descriptions and releases checked every 6 hours.
+Catalog changed 2026-10-02 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 
