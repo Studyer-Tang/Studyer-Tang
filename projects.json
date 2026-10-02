@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T06:46:33+00:00",
+  "updatedAt": "2026-10-02T12:38:49+00:00",
   "projects": [
     {
       "repo": "advanced-mathematical-statistics-notes",
@@ -115,6 +115,31 @@
         "url": "https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0",
         "prerelease": false,
         "publishedAt": "2026-10-01T14:23:18Z"
+      }
+    },
+    {
+      "repo": "strategy-inference",
+      "name": [
+        "strategy-inference",
+        "strategy-inference"
+      ],
+      "label": [
+        "开源项目",
+        "Open source"
+      ],
+      "summary": [
+        "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
+        "Mean-return inference under time dependence and strategy selection, with reproducible simulations."
+      ],
+      "description": "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
+      "url": "https://github.com/Studyer-Tang/strategy-inference",
+      "language": "Python",
+      "pushedAt": "2026-10-02T12:37:31Z",
+      "release": {
+        "tag": "v0.2.0",
+        "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.2.0",
+        "prerelease": false,
+        "publishedAt": "2026-10-02T12:37:34Z"
       }
     }
   ]
