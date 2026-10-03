@@ -21,9 +21,9 @@
 | **[ThesisCraft · 学研排版](https://github.com/Studyer-Tang/ThesisCraft)** | 本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。 | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · 预览版 |
 | **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | 本地研究摘录工具，保存来源信息，整理 PDF 文本、BibTeX 与表格。 | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · 预览版 |
 | **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | 学术演示技能与 PPTX 工具，支持中文排版、可编辑数学公式与表格。 | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · 已发布 |
-| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Mean-return inference under time dependence and strategy selection, with reproducible simulations. | [v0.6.0](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.6.0) · 已发布 |
+| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Mean-return inference under time dependence and strategy selection, with reproducible simulations. | [v0.8.1](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.8.1) · 已发布 |
 
-项目资料变更于 2026-10-03（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。
+项目资料变更于 2026-10-04（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 
