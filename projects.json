@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T12:38:49+00:00",
+  "updatedAt": "2026-10-03T11:42:10+00:00",
   "projects": [
     {
       "repo": "advanced-mathematical-statistics-notes",
@@ -134,12 +134,12 @@
       "description": "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
       "url": "https://github.com/Studyer-Tang/strategy-inference",
       "language": "Python",
-      "pushedAt": "2026-10-02T12:37:31Z",
+      "pushedAt": "2026-10-03T11:01:58Z",
       "release": {
-        "tag": "v0.2.0",
-        "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.2.0",
+        "tag": "v0.6.0",
+        "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.6.0",
         "prerelease": false,
-        "publishedAt": "2026-10-02T12:37:34Z"
+        "publishedAt": "2026-10-03T11:02:14Z"
       }
     }
   ]
