@@ -21,9 +21,9 @@ I also enjoy analysis, history and deductive reasoning, especially the works of 
 | **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks. | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
 | **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | A local research clipboard for source-aware excerpts, PDF text, BibTeX and tables. | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
 | **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | A presentation skill and PPTX tools for Chinese typography, editable equations and tables. | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Published |
-| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Mean-return inference under time dependence and strategy selection, with reproducible simulations. | [v0.2.0](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.2.0) · Published |
+| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Mean-return inference under time dependence and strategy selection, with reproducible simulations. | [v0.6.0](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.6.0) · Published |
 
-Catalog changed 2026-10-02 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
+Catalog changed 2026-10-03 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 
