@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T08:58:29+00:00",
+  "updatedAt": "2026-10-09T09:16:46+00:00",
   "projects": [
     {
       "repo": "strategy-inference",
@@ -16,7 +16,7 @@
         "时序预测比较与不确定性评估：按时间回测、验证段选模、依赖调整检验与在线区间。",
         "Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware tests and online intervals."
       ],
-      "description": "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
+      "description": "Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware inference and online intervals.",
       "url": "https://github.com/Studyer-Tang/strategy-inference",
       "language": "Python",
       "pushedAt": "2026-10-04T03:44:33Z",
