@@ -70,12 +70,14 @@ class SyncTests(unittest.TestCase):
         self.assertIn('北京时间', zh)
 
     def test_curated_summaries_and_new_project_fallback(self):
-        items = [repo('paperstage-skill'), repo('new-tool'),
+        items = [repo('paperstage-skill'), repo('new-tool'), repo('strategy-inference'),
                  repo('learning-theory-to-optimization'), repo('advanced-mathematical-statistics-notes')]
         projects = sync.collect(lambda path: items if path.startswith('users/') else [])
-        self.assertEqual([p['repo'] for p in projects], ['advanced-mathematical-statistics-notes',
-                         'learning-theory-to-optimization', 'paperstage-skill', 'new-tool'])
+        self.assertEqual([p['repo'] for p in projects], ['strategy-inference',
+                         'learning-theory-to-optimization', 'advanced-mathematical-statistics-notes',
+                         'paperstage-skill', 'new-tool'])
         data = {'projects': projects, 'updatedAt': '2026-10-01'}
+        self.assertIn('时序预测比较与不确定性评估', sync.table(data, True))
         self.assertIn('可编辑数学公式', sync.table(data, True))
         self.assertIn('editable equations', sync.table(data, False))
         self.assertEqual(projects[-1]['summary'], ['Text | <tag>', 'Text | <tag>'])

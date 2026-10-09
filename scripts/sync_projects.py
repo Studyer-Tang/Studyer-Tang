@@ -18,14 +18,18 @@ ROOT = Path(__file__).resolve().parents[1]
 START = '<!-- projects:start -->'
 END = '<!-- projects:end -->'
 FEATURED = {
-    'advanced-mathematical-statistics-notes': ('高等统计学笔记', 'Statistics Notes', '学习笔记', 'Study notes'),
+    'strategy-inference': ('strategy-inference', 'strategy-inference', '预测比较与不确定性', 'Forecast comparison & uncertainty'),
     'learning-theory-to-optimization': ('学习理论与优化', 'Learning Theory & Optimization', '数学推导与实验', 'Derivations & experiments'),
-    'ThesisCraft': ('ThesisCraft · 学研排版', 'ThesisCraft', '论文写作', 'Academic writing'),
     'academic-clipboard': ('Academic Clipboard', 'Academic Clipboard', '科研摘录', 'Research snippets'),
+    'ThesisCraft': ('ThesisCraft · 学研排版', 'ThesisCraft', '论文写作', 'Academic writing'),
+    'advanced-mathematical-statistics-notes': ('高等统计学笔记', 'Statistics Notes', '学习笔记', 'Study notes'),
     'paperstage-skill': ('PaperStage', 'PaperStage', '学术演示', 'Presentations'),
 }
 # Human-edited summaries describe existing scope; GitHub facts remain automatic.
 SUMMARIES = {
+    'strategy-inference': (
+        '时序预测比较与不确定性评估：按时间回测、验证段选模、依赖调整检验与在线区间。',
+        'Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware tests and online intervals.'),
     'advanced-mathematical-statistics-notes': (
         '高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。',
         'Course notes in mathematical statistics, with expanded proofs, examples and a learning log.'),

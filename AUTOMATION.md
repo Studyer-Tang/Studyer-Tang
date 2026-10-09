@@ -11,7 +11,7 @@ update them there when the scope of a featured project changes.
   are excluded. The profile and website repositories are also excluded.
 - Latest means the most recently **published** release, including clearly labelled
   previews. It does not imply a stable release or guarantee downloadable binaries.
-- Five featured projects have curated display names and ordering in `FEATURED`.
+- Six featured projects have curated display names and ordering in `FEATURED`.
   Their summaries are maintained in Chinese and English in `SUMMARIES`.
   All other eligible projects follow alphabetically and use their About field until
   a summary is added. Release state is “Published” or “Preview”, not a stability claim.

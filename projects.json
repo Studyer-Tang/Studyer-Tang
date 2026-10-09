@@ -1,26 +1,31 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-04T05:56:43+00:00",
+  "updatedAt": "2026-10-09T08:58:29+00:00",
   "projects": [
     {
-      "repo": "advanced-mathematical-statistics-notes",
+      "repo": "strategy-inference",
       "name": [
-        "高等统计学笔记",
-        "Statistics Notes"
+        "strategy-inference",
+        "strategy-inference"
       ],
       "label": [
-        "学习笔记",
-        "Study notes"
+        "预测比较与不确定性",
+        "Forecast comparison & uncertainty"
       ],
       "summary": [
-        "高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。",
-        "Course notes in mathematical statistics, with expanded proofs, examples and a learning log."
+        "时序预测比较与不确定性评估：按时间回测、验证段选模、依赖调整检验与在线区间。",
+        "Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware tests and online intervals."
       ],
-      "description": "高等统计学中文学习笔记：翻译、推导、例题与学习进度",
-      "url": "https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes",
-      "language": "TeX",
-      "pushedAt": "2026-10-02T06:45:55Z",
-      "release": null
+      "description": "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
+      "url": "https://github.com/Studyer-Tang/strategy-inference",
+      "language": "Python",
+      "pushedAt": "2026-10-04T03:44:33Z",
+      "release": {
+        "tag": "v0.11.0",
+        "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.11.0",
+        "prerelease": false,
+        "publishedAt": "2026-10-04T03:44:52Z"
+      }
     },
     {
       "repo": "learning-theory-to-optimization",
@@ -41,31 +46,6 @@
       "language": "Python",
       "pushedAt": "2026-10-02T06:46:16Z",
       "release": null
-    },
-    {
-      "repo": "ThesisCraft",
-      "name": [
-        "ThesisCraft · 学研排版",
-        "ThesisCraft"
-      ],
-      "label": [
-        "论文写作",
-        "Academic writing"
-      ],
-      "summary": [
-        "本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。",
-        "Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks."
-      ],
-      "description": "ThesisCraft 学研排版 | Local thesis formatting for Word & WPS · 本硕博论文模板、字体编号、交叉引用与排版检查",
-      "url": "https://github.com/Studyer-Tang/ThesisCraft",
-      "language": "Python",
-      "pushedAt": "2026-10-02T06:45:31Z",
-      "release": {
-        "tag": "v4.2.1-beta.1",
-        "url": "https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1",
-        "prerelease": true,
-        "publishedAt": "2026-09-30T12:51:51Z"
-      }
     },
     {
       "repo": "academic-clipboard",
@@ -93,6 +73,51 @@
       }
     },
     {
+      "repo": "ThesisCraft",
+      "name": [
+        "ThesisCraft · 学研排版",
+        "ThesisCraft"
+      ],
+      "label": [
+        "论文写作",
+        "Academic writing"
+      ],
+      "summary": [
+        "本地 Word / WPS 论文排版工具，提供模板、编号、交叉引用与格式检查。",
+        "Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks."
+      ],
+      "description": "ThesisCraft 学研排版 | Local thesis formatting for Word & WPS · 本硕博论文模板、字体编号、交叉引用与排版检查",
+      "url": "https://github.com/Studyer-Tang/ThesisCraft",
+      "language": "Python",
+      "pushedAt": "2026-10-02T06:45:31Z",
+      "release": {
+        "tag": "v4.2.1-beta.1",
+        "url": "https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1",
+        "prerelease": true,
+        "publishedAt": "2026-09-30T12:51:51Z"
+      }
+    },
+    {
+      "repo": "advanced-mathematical-statistics-notes",
+      "name": [
+        "高等统计学笔记",
+        "Statistics Notes"
+      ],
+      "label": [
+        "学习笔记",
+        "Study notes"
+      ],
+      "summary": [
+        "高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。",
+        "Course notes in mathematical statistics, with expanded proofs, examples and a learning log."
+      ],
+      "description": "高等统计学中文学习笔记：翻译、推导、例题与学习进度",
+      "url": "https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes",
+      "language": "TeX",
+      "pushedAt": "2026-10-02T06:45:55Z",
+      "release": null
+    },
+    {
       "repo": "paperstage-skill",
       "name": [
         "PaperStage",
@@ -115,31 +140,6 @@
         "url": "https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0",
         "prerelease": false,
         "publishedAt": "2026-10-01T14:23:18Z"
-      }
-    },
-    {
-      "repo": "strategy-inference",
-      "name": [
-        "strategy-inference",
-        "strategy-inference"
-      ],
-      "label": [
-        "开源项目",
-        "Open source"
-      ],
-      "summary": [
-        "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
-        "Mean-return inference under time dependence and strategy selection, with reproducible simulations."
-      ],
-      "description": "Mean-return inference under time dependence and strategy selection, with reproducible simulations.",
-      "url": "https://github.com/Studyer-Tang/strategy-inference",
-      "language": "Python",
-      "pushedAt": "2026-10-04T03:44:33Z",
-      "release": {
-        "tag": "v0.11.0",
-        "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.11.0",
-        "prerelease": false,
-        "publishedAt": "2026-10-04T03:44:52Z"
       }
     }
   ]
