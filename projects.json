@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T09:16:46+00:00",
+  "updatedAt": "2026-10-09T13:20:42+00:00",
   "projects": [
     {
       "repo": "strategy-inference",
@@ -19,7 +19,7 @@
       "description": "Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware inference and online intervals.",
       "url": "https://github.com/Studyer-Tang/strategy-inference",
       "language": "Python",
-      "pushedAt": "2026-10-04T03:44:33Z",
+      "pushedAt": "2026-10-09T09:42:20Z",
       "release": {
         "tag": "v0.11.0",
         "url": "https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.11.0",
