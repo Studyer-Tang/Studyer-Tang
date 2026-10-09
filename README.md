@@ -4,26 +4,28 @@ Open research · Open-source tools
 
 [Homepage](https://studyer-tang.github.io/?lang=en) · [Email](https://github.com/Studyer-Tang/Studyer-Tang.github.io/issues) · [中文](README.zh-CN.md)
 
-I am an undergraduate studying statistics and its applications to financial markets. I keep course notes, work through mathematical derivations, and build tools for collecting research, formatting theses and preparing presentations.
+I am an undergraduate studying statistics and its applications to financial markets. My research interests include high-frequency equity data, market microstructure and statistical prediction.
 
-My research interests include high-frequency equity data, market microstructure and statistical prediction. The repositories below contain study materials and software; my learning logs distinguish prepared material from work I have independently completed.
+My main software project, [strategy-inference](https://github.com/Studyer-Tang/strategy-inference), supports time-series forecast comparison and uncertainty assessment. I also keep mathematical derivations and reproducible experiments in [Learning Theory & Optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization), and build [Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard) to organize research excerpts and their sources.
+
+The repositories below contain software and study materials, with sources and method assumptions documented in each project. My learning logs distinguish prepared material from work I have independently completed.
 
 I also enjoy analysis, history and deductive reasoning, especially the works of Russell and Euler.
 
-## Notes and research tools
+## Projects and study notes
 
 <!-- projects:start -->
 
 | Project | About | Latest release |
 | :--- | :--- | :--- |
-| **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | Course notes in mathematical statistics, with expanded proofs, examples and a learning log. | Source only |
+| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Time-series forecast comparison and uncertainty: chronological backtests, validation selection, dependence-aware tests and online intervals. | [v0.11.0](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.11.0) · Published |
 | **[Learning Theory &amp; Optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization)** | Study materials in learning theory and optimization, with derivations, exercises and reproducible NumPy experiments. | Source only |
-| **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks. | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
 | **[Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard)** | A local research clipboard for source-aware excerpts, PDF text, BibTeX and tables. | [v0.5.0-beta.1](https://github.com/Studyer-Tang/academic-clipboard/releases/tag/v0.5.0-beta.1) · Preview |
+| **[ThesisCraft](https://github.com/Studyer-Tang/ThesisCraft)** | Local thesis formatting for Word and WPS, with templates, numbering, cross-references and format checks. | [v4.2.1-beta.1](https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1) · Preview |
+| **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | Course notes in mathematical statistics, with expanded proofs, examples and a learning log. | Source only |
 | **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | A presentation skill and PPTX tools for Chinese typography, editable equations and tables. | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Published |
-| **[strategy-inference](https://github.com/Studyer-Tang/strategy-inference)** | Mean-return inference under time dependence and strategy selection, with reproducible simulations. | [v0.11.0](https://github.com/Studyer-Tang/strategy-inference/releases/tag/v0.11.0) · Published |
 
-Catalog changed 2026-10-04 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
+Catalog changed 2026-10-09 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 
