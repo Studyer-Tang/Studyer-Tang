@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T13:20:42+00:00",
+  "updatedAt": "2026-10-13T14:15:06+00:00",
   "projects": [
     {
       "repo": "strategy-inference",
@@ -89,7 +89,7 @@
       "description": "ThesisCraft 学研排版 | Local thesis formatting for Word & WPS · 本硕博论文模板、字体编号、交叉引用与排版检查",
       "url": "https://github.com/Studyer-Tang/ThesisCraft",
       "language": "Python",
-      "pushedAt": "2026-10-02T06:45:31Z",
+      "pushedAt": "2026-10-13T08:34:27Z",
       "release": {
         "tag": "v4.2.1-beta.1",
         "url": "https://github.com/Studyer-Tang/ThesisCraft/releases/tag/v4.2.1-beta.1",
