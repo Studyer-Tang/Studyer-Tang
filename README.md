@@ -25,7 +25,7 @@ I also enjoy analysis, history and deductive reasoning, especially the works of 
 | **[Statistics Notes](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | Course notes in mathematical statistics, with expanded proofs, examples and a learning log. | Source only |
 | **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | A presentation skill and PPTX tools for Chinese typography, editable equations and tables. | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · Published |
 
-Catalog changed 2026-10-09 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
+Catalog changed 2026-10-13 (Asia/Shanghai). Public repositories and releases are checked every six hours; the date records a catalog change.
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 

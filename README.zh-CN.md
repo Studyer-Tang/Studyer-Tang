@@ -25,7 +25,7 @@
 | **[高等统计学笔记](https://github.com/Studyer-Tang/advanced-mathematical-statistics-notes)** | 高等统计学课程学习笔记，包含证明展开、例题与实际学习进度。 | 暂无发布 |
 | **[PaperStage](https://github.com/Studyer-Tang/paperstage-skill)** | 学术演示技能与 PPTX 工具，支持中文排版、可编辑数学公式与表格。 | [v0.4.0](https://github.com/Studyer-Tang/paperstage-skill/releases/tag/v0.4.0) · 已发布 |
 
-项目资料变更于 2026-10-09（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。
+项目资料变更于 2026-10-13（北京时间）· 每 6 小时自动核对公开仓库与发布版本；上列日期为资料变更时间。
 
 [全部仓库 / All repositories](https://github.com/Studyer-Tang?tab=repositories)
 
