@@ -1,10 +1,10 @@
 # Studyer-Tang
 
-开放研究 · 开源工具
+数学 · 统计 · 机器学习
 
-[个人主页](https://studyer-tang.github.io/?lang=zh) · [邮箱](https://github.com/Studyer-Tang/Studyer-Tang.github.io/issues) · [English](README.md)
+[个人主页](https://studyer-tang.github.io/?lang=zh) · [English](README.md)
 
-我目前在开放研究读本科，学习统计学及其在金融市场中的应用。我的研究兴趣集中于高频股票数据、市场微观结构与统计预测。
+我关注统计学及其在金融市场中的应用。我的研究兴趣集中于高频股票数据、市场微观结构与统计预测。
 
 目前主要开发 [strategy-inference](https://github.com/Studyer-Tang/strategy-inference)，用于时序预测比较与不确定性评估；在[学习理论与优化](https://github.com/Studyer-Tang/learning-theory-to-optimization)中整理数学推导与可复现实验，用 [Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard) 整理研究摘录和出处。
 

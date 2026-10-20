@@ -1,10 +1,10 @@
 # Studyer-Tang
 
-Open research · Open-source tools
+Mathematics · Statistics · Machine learning
 
-[Homepage](https://studyer-tang.github.io/?lang=en) · [Email](https://github.com/Studyer-Tang/Studyer-Tang.github.io/issues) · [中文](README.zh-CN.md)
+[Homepage](https://studyer-tang.github.io/?lang=en) · [中文](README.zh-CN.md)
 
-I am an undergraduate studying statistics and its applications to financial markets. My research interests include high-frequency equity data, market microstructure and statistical prediction.
+I study statistics and its applications to financial markets. My research interests include high-frequency equity data, market microstructure and statistical prediction.
 
 My main software project, [strategy-inference](https://github.com/Studyer-Tang/strategy-inference), supports time-series forecast comparison and uncertainty assessment. I also keep mathematical derivations and reproducible experiments in [Learning Theory & Optimization](https://github.com/Studyer-Tang/learning-theory-to-optimization), and build [Academic Clipboard](https://github.com/Studyer-Tang/academic-clipboard) to organize research excerpts and their sources.
 
